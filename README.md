@@ -5,6 +5,6 @@ The data included 7043 observations and 21 variables including the target variab
 
 ![alt text](telco_img.PNG)
 
-The following table shows the accuracies achieved by the four methods:
+The following table shows the test accuracies achieved by the four methods:
 ![alt text](telco2_img.PNG)
 
