@@ -3,4 +3,4 @@ A project utilizing SVMs, logistic regression, random forest, and feed-forward n
 
 The data included 7043 observations and 21 variables including the target variable, churn. The following shows a portion of the datset:
 
-![alt text]
+![alt text](telco_img.PNG)
