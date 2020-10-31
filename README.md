@@ -9,4 +9,6 @@ The following table shows the test accuracies achieved by the four methods:
 ![alt text](telco2_img.PNG)
 
 aaaa
-cccc
+
+
+ccccc
