@@ -8,4 +8,3 @@ The data included 7043 observations and 21 variables including the target variab
 The following table shows the test accuracies achieved by the four methods:
 ![alt text](telco2_img.PNG)
 
-Change.....
